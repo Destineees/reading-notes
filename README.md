@@ -8,7 +8,7 @@
 
 
 ## 030823 Growth Mindset
-A growth mindset is to me remaining in the mindset of a young innocent child. Embracing challenges as learning opportunities. When I think of people who exhibit a growth mindset they are curious, confident, and constantly learning something new. 
+A growth mindset is to me remaining in the mindset of a young innocent child. Embracing challenges as learning opportunities. When I think of people who exhibit a growth mindset they are curious, confident, and constantly learning something new. I think we all are born with a growth mindset, yet the systems of the world often can leave us feeling as if things are fixed. 
 
 ***
 
