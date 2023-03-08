@@ -1,5 +1,11 @@
 # Destineees Reading Journal
 
+[![Check out my Github Portfolio! ]( https://avatars.githubusercontent.com/u/17172185?v=4 "Check out my Github Portfolio")](https://github.com/Destineees)
+
+
+## Destinee Sanders
+
+
 
 ## 030823 Growth Mindset
 A growth mindset is to me remaining in the mindset of a young innocent child. Embracing challenges as learning opportunities. When I think of people who exhibit a growth mindset they are curious, confident, and constantly learning something new. 
