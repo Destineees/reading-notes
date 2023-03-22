@@ -15,3 +15,7 @@
 + Snapshot file system
 + local operations
 + acts as a gatekeeper
++ cloning makes a copy of a repository from a particular server using the repository URL
++ track and stage files with git add
++ use git commit to take a snapshot
++ use git push to send changed files to github
