@@ -1,6 +1,6 @@
 # Destineees Reading Journal
 
-[Check out my Github Portfolio!]( https://avatars.githubusercontent.com/u/17172185?v=4 "Check out my Github Portfolio")(https://github.com/Destineees)
+[![Check out my Github Portfolio!]( https://avatars.githubusercontent.com/u/17172185?v=4 "Check out my Github Portfolio")](https://github.com/Destineees)
 
 ## Destinee Sanders
 
