@@ -1,22 +1,24 @@
 # Coder's Computer Configs
-###### by Destinee Sanders
+
+## by Destinee Sanders
 
 ## Four Key Features in a Text Editor
 
 + Code Completion
 + Syntax
-+ Theme Variety 
++ Theme Variety
 + Healthy Selection of Extensions
 
-## Need to Know Commands 
+## Need to Know Commands
 
-+ pwd: Prints Working Directory > what is the path for where you are currently working 
++ pwd: Prints Working Directory > what is the path for where you are currently working
+
 + ls: Lists the files in the current directory
-+ cd: Change Directory 
-+ mkdir: Makes a new directory or subdirectory 
++ cd: Change Directory
++ mkdir: Makes a new directory or subdirectory
 + touch: Accesses/Touches/Modify
 
-###### For Example:
+### For Example:
 
 + **cd projects** > would change the directory we are in to 'projects'
 + **mkdir new-project** > would create a new subdirectory called 'new-project' with in 'projects'
