@@ -41,3 +41,5 @@ Welcome to my reading notes journal for my Code Fellows journey as a student. I 
 + [Future Notes 15](https://destineees.github.io/reading-notes/code-201/Notes-15)
 
 ***
+
+[My Thoughts](https://destineees.github.io/reading-notes/Thoughtson)
