@@ -4,24 +4,40 @@
 
 ## Destinee Sanders
 
-## Growth Mindset
+Welcome to my reading notes journal for my Code Fellows journey as a student. I am an Admissions Coordinator @codefellows. I live at the intersection of Food, Real Estate, &Tech. I am passionate about helping humans improve their quality of life.
 
-A growth mindset is to me remaining in the mindset of a young innocent child. Embracing challenges as learning opportunities. When I think of people who exhibit a growth mindset they are curious, confident, and constantly learning something new. I think we all are born with a growth mindset, yet the systems of the world often can leave us feeling as if things are fixed.
+## Table of Contents
+
+### Code 102 Notes
+
++ [Growth Mindset](https://destineees.github.io/reading-notes/GrowthMindset)
++ [Coders Computer](https://destineees.github.io/reading-notes/CodersComputer)
++ [CSSDesign](https://destineees.github.io/reading-notes/CSSDesign)
++ [Dynamic Javascript](https://destineees.github.io/reading-notes/DynamivJavascript)
++ [Fundamentals](https://destineees.github.io/reading-notes/Fundamentals)
++ [GitHub](https://destineees.github.io/reading-notes/GitHub)
++ [Markdown Basics](https://destineees.github.io/reading-notes/markdownbasics)
++ [Programming Javascript](https://destineees.github.io/reading-notes/ProgrammingJS)
++ [Web Pages With HTML](https://destineees.github.io/reading-notes/webwhtml)
 
 ***
 
-### Three ways to cultivate a growth mindset:
+### Code 201 Notes
 
-1. It is ok to walk away- step back from the problem
-2. Welcome criticism and feedback
-3. Seek new perspectives
-
-***
-
-### [Uphill by Jemele Hill](https://www.google.com/books/edition/Uphill/fjhKEAAAQBAJ?hl=en&gbpv=1)
-
- Uphill by Jemele Hill is one of my favorite memoirs. Jemele exhibits a growth mindset in her youth and early adult life and shares her stories of obstacles, challenges, and triumphs to inspire success in others. Highly reccommended read.
-
-[![Jemele Hill](https://m.media-amazon.com/images/I/4164IxTCUEL._SX327_BO1,204,203,200_.jpg)](https://www.amazon.com/Uphill-Memoir-Jemele-Hill/dp/1250624371)
++ [Future Notes 1](https://destineees.github.io/reading-notes/code-201/Notes-1)
++ [Future Notes 2](https://destineees.github.io/reading-notes/code-201/Notes-2)
++ [Future Notes 3](https://destineees.github.io/reading-notes/code-201/Notes-3)
++ [Future Notes 4](https://destineees.github.io/reading-notes/code-201/Notes-4)
++ [Future Notes 5](https://destineees.github.io/reading-notes/code-201/Notes-5)
++ [Future Notes 6](https://destineees.github.io/reading-notes/code-201/Notes-6)
++ [Future Notes 7](https://destineees.github.io/reading-notes/code-201/Notes-7)
++ [Future Notes 8](https://destineees.github.io/reading-notes/code-201/Notes-8)
++ [Future Notes 9](https://destineees.github.io/reading-notes/code-201/Notes-9)
++ [Future Notes 10](https://destineees.github.io/reading-notes/code-201/Notes-10)
++ [Future Notes 11](https://destineees.github.io/reading-notes/code-201/Notes-11)
++ [Future Notes 12](https://destineees.github.io/reading-notes/code-201/Notes-12)
++ [Future Notes 13](https://destineees.github.io/reading-notes/code-201/Notes-13)
++ [Future Notes 14](https://destineees.github.io/reading-notes/code-201/Notes-14)
++ [Future Notes 15](https://destineees.github.io/reading-notes/code-201/Notes-15)
 
 ***
