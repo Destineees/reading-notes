@@ -18,7 +18,7 @@
 + mkdir: Makes a new directory or subdirectory
 + touch: Accesses/Touches/Modify
 
-### For Example:
+### Examples
 
 + **cd projects** > would change the directory we are in to 'projects'
 + **mkdir new-project** > would create a new subdirectory called 'new-project' with in 'projects'

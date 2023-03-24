@@ -10,7 +10,7 @@
 
 ### Semantics
 
-The meaning or logic of lines of code
+The meaning or logic of lines of code.
 
 ### What is HTML?
 

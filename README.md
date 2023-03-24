@@ -10,35 +10,35 @@ Welcome to my reading notes journal for my Code Fellows journey as a student. I 
 
 ### Code 102 Notes
 
-+ [Growth Mindset](https://destineees.github.io/reading-notes/GrowthMindset)
-+ [Coders Computer](https://destineees.github.io/reading-notes/CodersComputer)
-+ [CSSDesign](https://destineees.github.io/reading-notes/CSSDesign)
-+ [Dynamic Javascript](https://destineees.github.io/reading-notes/DynamivJavascript)
-+ [Fundamentals](https://destineees.github.io/reading-notes/Fundamentals)
-+ [GitHub](https://destineees.github.io/reading-notes/GitHub)
-+ [Markdown Basics](https://destineees.github.io/reading-notes/markdownbasics)
-+ [Programming Javascript](https://destineees.github.io/reading-notes/ProgrammingJS)
-+ [Web Pages With HTML](https://destineees.github.io/reading-notes/webwhtml)
++ [Growth Mindset](code-102/GrowthMindset.md)
++ [Coders Computer](code-102/CodersComputer.md)
++ [CSSDesign](code-102/CSSDesign.md)
++ [Dynamic Javascript](code-102/DynamicJavaScript.md)
++ [Fundamentals](code-102/Fundamentals.md)
++ [GitHub](code-102/GitHub.md)
++ [Markdown Basics](code-102/markdownbasics.md)
++ [Programming Javascript](code-102/ProgrammingJS.md)
++ [Web Pages With HTML](code-102/webwhtml.md)
 
 ***
 
 ### Code 201 Notes
 
-+ [Future Notes 1](https://destineees.github.io/reading-notes/code-201/Notes-1)
-+ [Future Notes 2](https://destineees.github.io/reading-notes/code-201/Notes-2)
-+ [Future Notes 3](https://destineees.github.io/reading-notes/code-201/Notes-3)
-+ [Future Notes 4](https://destineees.github.io/reading-notes/code-201/Notes-4)
-+ [Future Notes 5](https://destineees.github.io/reading-notes/code-201/Notes-5)
-+ [Future Notes 6](https://destineees.github.io/reading-notes/code-201/Notes-6)
-+ [Future Notes 7](https://destineees.github.io/reading-notes/code-201/Notes-7)
-+ [Future Notes 8](https://destineees.github.io/reading-notes/code-201/Notes-8)
-+ [Future Notes 9](https://destineees.github.io/reading-notes/code-201/Notes-9)
-+ [Future Notes 10](https://destineees.github.io/reading-notes/code-201/Notes-10)
-+ [Future Notes 11](https://destineees.github.io/reading-notes/code-201/Notes-11)
-+ [Future Notes 12](https://destineees.github.io/reading-notes/code-201/Notes-12)
-+ [Future Notes 13](https://destineees.github.io/reading-notes/code-201/Notes-13)
-+ [Future Notes 14](https://destineees.github.io/reading-notes/code-201/Notes-14)
-+ [Future Notes 15](https://destineees.github.io/reading-notes/code-201/Notes-15)
++ [Future Notes 1](code-201/Notes-1.md)
++ [Future Notes 2](code-201/Notes-2.md)
++ [Future Notes 3](code-201/Notes-3.md)
++ [Future Notes 4](code-201/Notes-4.md)
++ [Future Notes 5](code-201/Notes-5.md)
++ [Future Notes 6](code-201/Notes-6.md)
++ [Future Notes 7](code-201/Notes-7.md)
++ [Future Notes 8](code-201/Notes-8.md)
++ [Future Notes 9](code-201/Notes-9.md)
++ [Future Notes 10](code-201/Notes-10.md)
++ [Future Notes 11](code-201/Notes-11.md)
++ [Future Notes 12](code-201/Notes-12.md)
++ [Future Notes 13](code-201/Notes-13.md)
++ [Future Notes 14](code-201/Notes-14.md)
++ [Future Notes 15](code-201/Notes-15.md)
 
 ***
 
