@@ -1,4 +1,4 @@
-# This is where my notes on HTML Web Pages will live
+# Web Pages with HTML
 
 ## Wireframe and Design
 
@@ -6,26 +6,11 @@
 
 ## Mozilla HTML Basics
 
+***
 
-### Semantic Elements
+### Semantics
 
 The meaning or logic of lines of code
-
-### HTML Semantic Elements
-
-+ <article>
-+ <aside>
-+ <details>
-+ <figcaption>
-+ <details>
-+ <footer>
-+ <header>
-+ <main>
-+ <nav>
-+ <mark>
-+ <section>
-+ <summary>
-+ <time>
 
 ### What is HTML?
 
