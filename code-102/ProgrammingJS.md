@@ -21,7 +21,7 @@
 + a comparison operator compares its operands and returnsa a logical value based on whether the comparison is true
 + arithmetic operators take numerical values as operands and returns a single numerical value + - * / %
 + bitwise operators treats operands as a set of 32 bits AND OR XOR NOT
-+ logical operators are used with boolean values && || !
++ logical operators are used with boolean values && (||) !
 + comma operator evaluates both operands and returns the value of the last operand primarily used in for loops
 
 ## Expressions
