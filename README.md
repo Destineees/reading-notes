@@ -1,14 +1,16 @@
-# Destineees Reading Journal
+# Destinee Sanders Code Fellows Reading Journal
 
 [![Check out my Github Portfolio!]( https://avatars.githubusercontent.com/u/17172185?v=4 "Check out my Github Portfolio")](https://github.com/Destineees)
 
-## Destinee Sanders
+***
 
 Welcome to my reading notes journal for my Code Fellows journey as a student. I am an Admissions Coordinator @codefellows. I live at the intersection of Food, Real Estate, &Tech. I am passionate about helping humans improve their quality of life.
 
+***
+
 ## Table of Contents
 
-### Code 102 Notes
+## Code 102 Notes - Intro to Software Development
 
 + [Growth Mindset](code-102/GrowthMindset.md)
 + [Coders Computer](code-102/CodersComputer.md)
@@ -22,7 +24,7 @@ Welcome to my reading notes journal for my Code Fellows journey as a student. I 
 
 ***
 
-### Code 201 Notes
+## Code 201 Notes - Foundations of Software Development
 
 + [Future Notes 1](code-201/Notes-1.md)
 + [Future Notes 2](code-201/Notes-2.md)
@@ -41,5 +43,11 @@ Welcome to my reading notes journal for my Code Fellows journey as a student. I 
 + [Future Notes 15](code-201/Notes-15.md)
 
 ***
+
+## Code 301 Notes - Intermediate Software Development
+
+***
+
+## Code 401 Notes - Advanced Software Development
 
 [My Thoughts](https://destineees.github.io/reading-notes/Thoughtson)
