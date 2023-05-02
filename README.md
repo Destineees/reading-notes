@@ -4,7 +4,7 @@
 
 ***
 
-Welcome to my reading notes journal for my Code Fellows journey as a student. I am an Admissions Coordinator @codefellows. I live at the intersection of Food, Real Estate, &Tech. I am passionate about helping humans improve their quality of life.
+Welcome to my reading notes journal for my Code Fellows journey as a student. I am an Admissions Coordinator @codefellows. I live at the intersection of Food, Real Estate, and Tech. I am passionate about helping humans improve their quality of life.
 
 ***
 
