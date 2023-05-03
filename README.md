@@ -26,7 +26,7 @@ Welcome to my reading notes journal for my Code Fellows journey as a student. I 
 
 ## Code 201 Notes - Foundations of Software Development
 
-+ [Future Notes 1](code-201/Notes-1.md)
++ [Class 1 Reading Notes](code-201/class-01.md)
 + [Future Notes 2](code-201/Notes-2.md)
 + [Future Notes 3](code-201/Notes-3.md)
 + [Future Notes 4](code-201/Notes-4.md)

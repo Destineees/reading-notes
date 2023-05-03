@@ -22,12 +22,14 @@
 
     * Writing improvements
 
-    *  Innovation improvements
+    * Innovation improvements
 
     * Adaptability strength
-
+    
     * Organizational Strength
 
     Three of my strengths are listening, adaptability, and organizational. I can best leverage my skills by listening to others when collaborating, adapting as changes come quickly, and staying organized.
 
     Writing, speaking, and innovation are areas I can improve in. I can challenge myself by finding ways to be innovative with my projects, writing more and getting feedback on my writing, and engaging in more collaborative efforts to improve my speaking.
+
+    
