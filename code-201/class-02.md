@@ -83,9 +83,9 @@ An else if will execute if the conditional is false and there is another conditi
 + Less Than <
 + Equals =
 
-**What is the difference between the logical operator && and ||?**
+**What is the difference between the logical operator `&&` and `||`?**
 
-The AND (&&) operator executes if both of the values is true the OR (||)operation executes if one of the values is true.
+The AND `&&` operator executes if both of the values is true the OR `||`operation executes if one of the values is true.
 
 ## Things I want to know more about
 
