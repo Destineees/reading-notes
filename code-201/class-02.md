@@ -12,12 +12,12 @@ It is important to use semantic elements in our HTML because it supports SEO, Ac
 
 There is one main heading h1 and you can sub head five times for the six different heading elements in HTML.
 
-**What are some uses for the <sup> and <sub> elements?**
+**What are some uses for the `<sup>` and `<sub>` elements?**
 
-+ When writing mathematical formulas or numbers with exponents we can use super script <sup>
-+ When working with writing and footnotes we can use the subscript or <sub> element.
++ When writing mathematical formulas or numbers with exponents we can use super script `<sup>`
++ When working with writing and footnotes we can use the subscript or `<sub>` element.
 
-**When using the <abbr> element, what attribute must be added to provide the full expansion of the term?**
+**When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?**
 
 Both the title attribute and the expansion definition are needed to provide the full expansion of the term.
 
@@ -26,7 +26,7 @@ Both the title attribute and the expansion definition are needed to provide the 
 **What are ways we can apply CSS to our HTML?**
 
 + External Stylesheet: separate file with .css extension
-+ Internal Stylesheet: set in the HTML using the <style> tags
++ Internal Stylesheet: set in the HTML using the `<style>`tags
 + Inline Styles - assigned styles to individual element attributes
 
 **Why should we avoid using inline styles?**
@@ -48,7 +48,7 @@ h2
 
 **Which components are the CSS declarations?**
 
-color and padding 
+color and padding
 
 **Which components are considered properties?**
 
@@ -69,7 +69,9 @@ Strings
 
 **Describe a real world Problem you could solve with a Function.**
 
-Traffic signals, controlling the switches for when the lights change could be solved using functions. We could also write a function to solve the problem for making simple decisions like a magic eight ball. 
+Traffic signals, controlling the switches for when the lights change could be solved using functions. We could also write a function to solve the problem for making simple decisions like a magic eight ball.
+
+***
 
 An if statement checks a **condition** and if it evaluates to **be true**, then the code block will execute.
 
