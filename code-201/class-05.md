@@ -45,4 +45,6 @@ letter-spacing and word-spacing
 
 ## Things I want to know more about
 
-WebGL and 3d images because why not..
+WebGL and 3d images because why not...
+
+I think it would be fun to play with 3D images
