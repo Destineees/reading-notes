@@ -31,7 +31,7 @@ Welcome to my reading notes journal for my Code Fellows journey as a student. I 
 + [Class 3 Reading Notes](code-201/class-03.md)
 + [Class 4 Reading Notes](code-201/class-04.md)
 + [Class 5 Reading Notes](code-201/class-05.md)
-+ [Future Notes 6](code-201/Notes-6.md)
++ [Class 6 Reading Notes](code-201/class-06.md)
 + [Future Notes 7](code-201/Notes-7.md)
 + [Future Notes 8](code-201/Notes-8.md)
 + [Future Notes 9](code-201/Notes-9.md)
